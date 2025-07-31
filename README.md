@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hong Xuan</h1>
-<h3 align="center">A passionate data analyst and digital marketing developer from Malaysia,from <img src =" "</h3>
+<h3 align="center">A passionate data analyst and digital marketing developer from Malaysia 🇲🇾</h3>
 
 - 🏫 I'm currently studying at **Sunway University**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GaryPhuah](https://github.com/GaryPhuah)
 
 - 📫 How to reach me: **hongxuanphuah@gmail.com**
+---
 
 
 [![](https://pixel-profile.vercel.app/api/github-stats?username=GaryPhuah&theme=road_trip&pixelate_avatar=false)](https://github.com/GaryPhuah)
