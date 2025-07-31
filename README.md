@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hong Xuan</h1>
-<h3 align="center">A passionate data analyst and digital marketing developer from Malaysia 🇲🇾</h3>
+<h3 align="center">A passionate data analyst and digital marketing developer from Malaysia from <img source = MalaysiaPixelFlag.png> </h3>
 
 - 🏫 I'm currently studying at **Sunway University**
 
