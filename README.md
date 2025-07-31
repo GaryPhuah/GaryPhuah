@@ -97,8 +97,9 @@
     style="max-width: 100%; height: auto;"
   />
 </picture>
+
 ---
-x
+
 <hr style="margin: 3rem 0;" />
 
 <h3 align="center">Languages and Tools:</h3>
