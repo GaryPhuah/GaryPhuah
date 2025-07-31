@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **hongxuanphuah@gmail.com**
 
-https://pixel-profile.vercel.app/api/github-stats?username=<username>&theme=crt
+https://pixel-profile.vercel.app/api/github-stats?username=<GaryPhuah>&theme=crt
 
 <h3 align="left">👾 My Contribution Graph (Pac-Man Style):</h3>
 
