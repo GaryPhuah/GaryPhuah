@@ -7,11 +7,9 @@
 
 - 📫 How to reach me: **hongxuanphuah@gmail.com**
 
-<picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=<GaryPhuah>&theme=summer">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=<GaryPhuah>&screen_effect=true&theme=blue_chill">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=<username>&theme=summer">
-</picture>
+<!--Replace <username> with your own GitHub username.-->
+https://pixel-profile.vercel.app/api/github-stats?username=<GaryPhuah>
+
 
 <h3 align="left">👾 My Contribution Graph (Pac-Man Style):</h3>
 
