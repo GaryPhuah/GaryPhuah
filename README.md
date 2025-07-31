@@ -7,8 +7,8 @@
 
 - 📫 How to reach me: **hongxuanphuah@gmail.com**
 
-<!--Replace <username> with your own GitHub username.-->
-https://pixel-profile.vercel.app/api/github-stats?username=<Phuah Hong Xuan>&theme=journey&pixelate_avatar=false
+[![](https://pixel-profile.vercel.app/api/github-stats?username=GaryPhuah&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%232aeeff%2C%20%235580eb))
+](https://pixel-profile.vercel.app/api/github-stats?username=<username>&screen_effect=true&theme=rainbow)
 
 <h3 align="left">👾 My Contribution Graph (Pac-Man Style):</h3>
 
