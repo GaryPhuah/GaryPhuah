@@ -77,7 +77,7 @@
 <!-- Motto --> 
 <!--<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A person's growth is witnessed by themselves.&author=Hong Xuan" />-->
 <!-- Motto --> 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A person's growth is witnessed by themselves. &author=Hong Xuan"  />
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=你可以做到任何事&author=YaoSir)
 
 <h3 style="text-align: left;">👾 My Contribution Graph (Pac-Man Style):</h3>
 
