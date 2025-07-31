@@ -13,7 +13,7 @@
 </p>
 
 <h3 align="center" style="margin-top: 1rem;">
-  A passionate data analyst and digital marketing developer from Malaysia
+  A passionate Data Analyst and Digital Marketing Developer from Malaysia
   <img
     src="https://raw.githubusercontent.com/GaryPhuah/GaryPhuah/main/MalaysiaPixelFlag.png"
     alt="Malaysia Flag"
