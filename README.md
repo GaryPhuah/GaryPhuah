@@ -12,7 +12,9 @@
 - <img src="https://emojis.slackmojis.com/emojis/images/1646202024/54804/university.png?1646202024" width="20" align="absmiddle" /> Currently pursuing my studies at **Sunway University**
 - <img src="https://emojis.slackmojis.com/emojis/images/1643516132/21562/guitar.gif?1643516132" width="20" align="absmiddle" /> Enjoy playing the guitar,  
   <img src="https://emojis.slackmojis.com/emojis/images/1647276207/56108/badminton.gif?1647276207" width="20" align="absmiddle" /> badminton,  
-  <img src="https://emojis.slackmojis.com/emojis/images/1643515849/18647/basketball.gif?1643515849" width="20" align="absmiddle" /> basketball   
+  <img src="https://emojis.slackmojis.com/emojis/images/1643515849/18647/basketball.gif?1643515849" width="20" align="absmiddle" /> basketball,
+  <img src="https://emojis.slackmojis.com/emojis/images/1643516309/23432/football.gif?1643516309" width="20" align="absmiddle" /> football,
+  <img src="https://emojis.slackmojis.com/emojis/images/1623199832/44022/running.gif?1623199832" width="20" align="absmiddle" /> jogging,
   <img src="https://emojis.slackmojis.com/emojis/images/1643516331/23682/hiking.gif?1643516331" width="20" align="absmiddle" /> hiking...
 - <img src="https://emojis.slackmojis.com/emojis/images/1643515359/13772/cat_computer.gif?1643515359" width="20" align="absmiddle" /> Explore my work on [GitHub](https://github.com/GaryPhuah)
 - <img src="https://emojis.slackmojis.com/emojis/images/1643514532/5264/coding.gif?1643514532" width="20" align="absmiddle" /> Aspiring programmer with a passion for data and development
