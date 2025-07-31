@@ -11,7 +11,7 @@
 ## About me
 - <img src="https://emojis.slackmojis.com/emojis/images/1646202024/54804/university.png?1646202024" width="20" align="absmiddle" /> Currently pursuing my studies at **Sunway University**
 - <img src="https://emojis.slackmojis.com/emojis/images/1643516132/21562/guitar.gif?1643516132" width="20" align="absmiddle" /> Enjoy playing the guitar,  
-- <p>
+- <p> Enjoy sport like 
   <span style="margin-right: 10px;">
     <img src="https://emojis.slackmojis.com/emojis/images/1647276207/56108/badminton.gif?1647276207" width="20" align="absmiddle" /> badminton
   </span>
