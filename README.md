@@ -14,7 +14,7 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1647276207/56108/badminton.gif?1647276207" width="20" align="absmiddle" /> badminton,  
   <img src="https://emojis.slackmojis.com/emojis/images/1643515849/18647/basketball.gif?1643515849" width="20" align="absmiddle" /> basketball   
   <img src="https://emojis.slackmojis.com/emojis/images/1643516331/23682/hiking.gif?1643516331" width="20" align="absmiddle" /> hiking...
-- <img src="https://emojis.slackmojis.com/emojis/images/1643514120/792/computer.gif?1643514120" width="20" align="absmiddle" /> Explore my work on [GitHub](https://github.com/GaryPhuah)
+- <img src="https://emojis.slackmojis.com/emojis/images/1643515359/13772/cat_computer.gif?1643515359" width="20" align="absmiddle" /> Explore my work on [GitHub](https://github.com/GaryPhuah)
 - <img src="https://emojis.slackmojis.com/emojis/images/1643514532/5264/coding.gif?1643514532" width="20" align="absmiddle" /> Aspiring programmer with a passion for data and development
 - <img src="https://emojis.slackmojis.com/emojis/images/1645051490/53192/mail.gif?1645051490" width="20" align="absmiddle"/> Reach me at **hongxuanphuah@gmail.com**
 
