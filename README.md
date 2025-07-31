@@ -11,7 +11,7 @@
 ## About me
 - <img src="https://emojis.slackmojis.com/emojis/images/1646202024/54804/university.png?1646202024" width="20" align="absmiddle" /> Currently pursuing my studies at **Sunway University**
 - <img src="https://emojis.slackmojis.com/emojis/images/1643516132/21562/guitar.gif?1643516132" width="20" align="absmiddle" /> Enjoy playing the guitar,  
-- <p> Enjoy sport like 
+- <p> Enjoy sports like 
   <span style="margin-right: 10px;">
     <img src="https://emojis.slackmojis.com/emojis/images/1647276207/56108/badminton.gif?1647276207" width="20" align="absmiddle" /> badminton
   </span>
@@ -28,7 +28,6 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1643516331/23682/hiking.gif?1643516331" width="20" align="absmiddle" /> hiking
   </span>
 </p>
-
 - <img src="https://emojis.slackmojis.com/emojis/images/1643515359/13772/cat_computer.gif?1643515359" width="20" align="absmiddle" /> Explore my work on [GitHub](https://github.com/GaryPhuah)
 - <img src="https://emojis.slackmojis.com/emojis/images/1643514532/5264/coding.gif?1643514532" width="20" align="absmiddle" /> Aspiring programmer with a passion for data and development
 - <img src="https://emojis.slackmojis.com/emojis/images/1645051490/53192/mail.gif?1645051490" width="20" align="absmiddle"/> Reach me at **hongxuanphuah@gmail.com**
