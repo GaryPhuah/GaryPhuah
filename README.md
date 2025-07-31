@@ -3,10 +3,9 @@
   A passionate data analyst and digital marketing developer from Malaysia
   <img src="https://raw.githubusercontent.com/GaryPhuah/GaryPhuah/main/MalaysiaPixelFlag.png"
        alt="Malaysia Flag"
-       height="32"
-       style="image-rendering: pixelated; vertical-align: middle; margin-left: 4px;" />
+       height="24"
+       style="image-rendering: pixelated; vertical-align: -8px; margin-left: 4px;" />
 </h3>
-
 
 - 🏫 I'm currently studying at **Sunway University**
 
