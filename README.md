@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hong Xuan</h1>
 <h3 align="center">
-  A passionate data analyst and digital marketing developer from Malaysia 
-  <img src="https://raw.githubusercontent.com/GaryPhuah/GaryPhuah/main/MalaysiaPixelFlag.png" alt="Malaysia Flag" height="32" style="image-rendering: pixelated; margin-left: 4px;" />
+  A passionate data analyst and digital marketing developer from Malaysia
+  <img src="https://raw.githubusercontent.com/GaryPhuah/GaryPhuah/main/MalaysiaPixelFlag.png"
+       alt="Malaysia Flag"
+       height="32"
+       style="image-rendering: pixelated; vertical-align: middle; margin-left: 4px;" />
 </h3>
 
 
