@@ -71,13 +71,21 @@
 <hr style="margin: 3rem 0;" />
 
 ---
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bozywgi3mnmrvpczc6llupvfme&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+<div align="center">
+
+  <!-- Spotify Widget -->
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bozywgi3mnmrvpczc6llupvfme&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile" />
+  </a>
+
+  <!-- Quote Widget -->
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20person%27s%20growth%20is%20witnessed%20by%20themselves.&author=Hong%20Xuan" alt="Readme Quote" />
+  </a>
+
+</div>
 
 ---
-<!-- Motto --> 
-<!--<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A person's growth is witnessed by themselves.&author=Hong Xuan" />-->
-<!-- Motto --> 
-[![Readme Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20person%27s%20growth%20is%20witnessed%20by%20themselves.&author=Hong%20Xuan)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <h3 style="text-align: left;">👾 My Contribution Graph (Pac-Man Style):</h3>
 
