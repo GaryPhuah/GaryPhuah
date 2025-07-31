@@ -29,11 +29,11 @@
 - <img src="https://emojis.slackmojis.com/emojis/images/1643514532/5264/coding.gif?1643514532" width="20" align="absmiddle" /> Aspiring programmer with a passion for data and development
 - <img src="https://emojis.slackmojis.com/emojis/images/1645051490/53192/mail.gif?1645051490" width="20" align="absmiddle"/> Reach me at **hongxuanphuah@gmail.com**
 
-
+---
 
 [![](https://pixel-profile.vercel.app/api/github-stats?username=GaryPhuah&theme=road_trip&pixelate_avatar=false)](https://github.com/GaryPhuah)
 
-
+---
 <h3 align="left">👾 My Contribution Graph (Pac-Man Style):</h3>
 
 <picture>
