@@ -1,4 +1,6 @@
-<h1 align="centre">Hi <img src="https://emojis.slackmojis.com/emojis/images/1643514812/8268/blob-hype.gif?1643514812" width="40" />, I'm Hong Xuan</h1>
+<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1643514812/8268/blob-hype.gif?1643514812" width="40" /> What's up?</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=35&duration=3000&pause=1000&color=0E61F7&width=435&lines=Hello%2C+I'm+Hong+Xuan.+;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 <h3 align="center">
   A passionate data analyst and digital marketing developer from Malaysia
