@@ -44,4 +44,20 @@
 
 ---
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=arduino,cpp,css,figma,git,html,linux,mysql,nodejs,php,postgres,python,scala&theme=dark&perline=7)](https://skillicons.dev)
+<h3 align="left">Languages and Tools:</h3>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <img src="https://techstack-generator.vercel.app/arduino-icon.svg" alt="arduino" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cpp" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="css" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/figma-icon.svg" alt="figma" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="git" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="html" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/linux-icon.svg" alt="linux" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="nodejs" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/php-icon.svg" alt="php" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="postgresql" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/scala-icon.svg" alt="scala" width="65" height="65" />
+</div>
