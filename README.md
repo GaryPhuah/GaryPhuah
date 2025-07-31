@@ -7,11 +7,11 @@
        height="24"
        style="image-rendering: pixelated; vertical-align: -8px; margin-left: 4px;" />
 </h3>
-
+## About me
 - 🏫 I'm currently studying at **Sunway University**
-
+- I play 🎸 guitar and every sport game
 - 👨‍💻 All of my projects are available at **[https://github.com/GaryPhuah](https://github.com/GaryPhuah)**
-
+- 🎯 Future programmer
 - 📫 How to reach me: **hongxuanphuah@gmail.com**
 ---
 
