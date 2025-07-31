@@ -86,6 +86,7 @@
 
 </div>
 
+---
 <h3 style="text-align: left;">👾 My Contribution Graph (Pac-Man Style):</h3>
 
 <picture>
@@ -98,7 +99,6 @@
   />
 </picture>
 
----
 
 <hr style="margin: 3rem 0;" />
 
