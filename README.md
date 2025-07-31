@@ -43,8 +43,8 @@
 </picture>
 
 ---
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<h3 align="center">Languages and Tools:</h3>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
   </a>
@@ -84,5 +84,5 @@
   <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="scala" width="40" height="40" />
   </a>
-</p>
+</div>
 
