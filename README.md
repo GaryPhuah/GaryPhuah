@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hong Xuan</h1>
+<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1643514812/8268/blob-hype.gif?1643514812" width="50" />, I'm Hong Xuan</h1>
+
 <h3 align="center">
   A passionate data analyst and digital marketing developer from Malaysia
   <img src="https://raw.githubusercontent.com/GaryPhuah/GaryPhuah/main/MalaysiaPixelFlag.png"
@@ -9,7 +10,7 @@
 
 - 🏫 I'm currently studying at **Sunway University**
 
-- 👨‍💻 All of my projects are available at [https://github.com/GaryPhuah](https://github.com/GaryPhuah)
+- 👨‍💻 All of my projects are available at **[https://github.com/GaryPhuah](https://github.com/GaryPhuah)**
 
 - 📫 How to reach me: **hongxuanphuah@gmail.com**
 ---
