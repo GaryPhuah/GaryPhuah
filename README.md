@@ -70,6 +70,13 @@
 
 <hr style="margin: 3rem 0;" />
 
+---
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bozywgi3mnmrvpczc6llupvfme&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+---
+<!-- Motto --> 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A person's growth is witnessed by themselves.&author=Hong Xuan" />
+
 <h3 style="text-align: left;">👾 My Contribution Graph (Pac-Man Style):</h3>
 
 <picture>
@@ -81,7 +88,8 @@
     style="max-width: 100%; height: auto;"
   />
 </picture>
-
+---
+x
 <hr style="margin: 3rem 0;" />
 
 <h3 align="center">Languages and Tools:</h3>
