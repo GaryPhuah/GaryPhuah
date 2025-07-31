@@ -7,6 +7,8 @@
 
 - 📫 How to reach me: **hongxuanphuah@gmail.com**
 
+![](https://pixel-profile.vercel.app/api/github-stats?username=GaryPhuah&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%232aeeff%2C%20%235580eb))
+
 ---
 
 <h3 align="left">👾 My Contribution Graph (Pac-Man Style):</h3>
