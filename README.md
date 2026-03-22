@@ -64,7 +64,11 @@
 
 <div style="text-align: center;">
   <a href="https://github.com/GaryPhuah" target="_blank" rel="noreferrer" style="display: inline-block;">
-    <img src="https://pixel-profile.vercel.app/api/github-stats?username=GaryPhuah&theme=road_trip&pixelate_avatar=false" alt="GitHub stats" style="max-width: 100%; height: auto;" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=GaryPhuah&show_icons=true&count_private=true&hide=prs&theme=radical&include_all_commits=true" 
+      alt="GitHub stats" 
+      style="max-width: 100%; height: auto;" 
+    />
   </a>
 </div>
 
