@@ -68,7 +68,6 @@
   </a>
 </div>
 
-
 <hr style="margin: 3rem 0;" />
 
 <div align="center">
@@ -99,7 +98,6 @@
     style="max-width: 100%; height: auto;"
   />
 </picture>
-
 
 <hr style="margin: 3rem 0;" />
 
