@@ -96,7 +96,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GaryPhuah/GaryPhuah/output/pacman-contribution-graph-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GaryPhuah/GaryPhuah/output/pacman-contribution-graph.svg" />
   <img
-    src="https://raw.githubusercontent.com/GaryPhuah/GaryPhuah/output/pacman-contribution-graph.svg"
+    src="https://raw.githubusercontent.com/GaryPhuah/GaryPhuah/output/pacman-contribution-graph.svg?v=1"
     alt="Pac-Man contribution graph"
     style="max-width: 100%; height: auto;"
   />
