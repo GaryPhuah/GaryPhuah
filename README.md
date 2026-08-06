@@ -93,10 +93,18 @@
 <h3 style="text-align: left;">👾 My Contribution Graph (Pac-Man Style):</h3>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GaryPhuah/GaryPhuah/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GaryPhuah/GaryPhuah/output/pacman-contribution-graph.svg" />
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/GaryPhuah/GaryPhuah/output/pacman-contribution-graph-dark.svg?v=2"
+  />
+
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/GaryPhuah/GaryPhuah/output/pacman-contribution-graph.svg?v=2"
+  />
+
   <img
-    src="https://raw.githubusercontent.com/GaryPhuah/GaryPhuah/output/pacman-contribution-graph.svg?v=1"
+    src="https://raw.githubusercontent.com/GaryPhuah/GaryPhuah/output/pacman-contribution-graph.svg?v=2"
     alt="Pac-Man contribution graph"
     style="max-width: 100%; height: auto;"
   />
