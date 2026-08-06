@@ -76,12 +76,14 @@
 <div align="center">
 
   <!-- Spotify Widget -->
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img 
-      src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_NEW_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212"
-      alt="Spotify Now Playing"
-    />
-  </a>
+  <p align="center">
+    <a href="https://github.com/kittinan/spotify-github-profile">
+      <img 
+        src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bozywgi3mnmrvpczc6llupvfme&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true"
+        alt="Spotify Now Playing"
+      />
+    </a>
+  </p>
 
   <br/><br/>
 
