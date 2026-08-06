@@ -65,8 +65,8 @@
 <div style="text-align: center;">
   <a href="https://github.com/GaryPhuah" target="_blank" rel="noreferrer" style="display: inline-block;">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=GaryPhuah&show_icons=true&theme=transparent&count_private=true&hide_border=true&cache_seconds=1800" 
-      alt="GitHub stats" 
+      src="https://github-stats-extended.vercel.app/api?username=GaryPhuah&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark"
+      alt="Hong Xuan's GitHub Stats"
       style="max-width: 100%; height: auto;" />
   </a>
 </div>
