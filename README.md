@@ -65,7 +65,7 @@
 <div style="text-align: center;">
   <a href="https://github.com/GaryPhuah" target="_blank" rel="noreferrer" style="display: inline-block;">
     <img 
-      src="https://pixel-profile.vercel.app/api/github-stats?username=GaryPhuah&theme=road_trip&pixelate_avatar=false&show_icons=true&count_private=true" 
+      src="https://github-readme-stats.vercel.app/api?username=GaryPhuah&show_icons=true&theme=transparent&count_private=true&hide_border=true&cache_seconds=1800" 
       alt="GitHub stats" 
       style="max-width: 100%; height: auto;" />
   </a>
@@ -77,14 +77,20 @@
 
   <!-- Spotify Widget -->
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bozywgi3mnmrvpczc6llupvfme&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile" />
+    <img 
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_NEW_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212"
+      alt="Spotify Now Playing"
+    />
   </a>
 
-  <br/><br/> <!-- Optional spacing -->
+  <br/><br/>
 
   <!-- Quote Widget -->
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20person%27s%20growth%20is%20witnessed%20by%20themselves.&author=Hong%20Xuan" alt="Readme Quote" />
+    <img 
+      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20person%27s%20growth%20is%20witnessed%20by%20themselves.&author=Hong%20Xuan" 
+      alt="Readme Quote" 
+    />
   </a>
 
 </div>
