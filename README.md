@@ -62,12 +62,12 @@
 
 <hr style="margin: 3rem 0;" />
 
-<div style="text-align: center;">
-  <a href="https://github.com/GaryPhuah" target="_blank" rel="noreferrer" style="display: inline-block;">
+<div align="center">
+  <a href="https://github.com/GaryPhuah" target="_blank" rel="noreferrer">
     <img 
-      src="https://github-stats-extended.vercel.app/api?username=GaryPhuah&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark"
-      alt="Hong Xuan's GitHub Stats"
-      style="max-width: 100%; height: auto;" />
+      src="https://github-stats-extended.vercel.app/api?username=GaryPhuah&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark&hide_border=true"
+      alt="Gary Phuah GitHub Stats"
+    />
   </a>
 </div>
 
